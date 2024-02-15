@@ -1,4 +1,5 @@
 COFFEE SALES DASHBOARD
+
 This Excel project entails the creation of a comprehensive dashboard to analyze coffee sales data. 
 Leveraging historical data, the dashboard provides insights into the top-selling coffees, the top 5 customers, 
 and various key performance indicators (KPIs) related to sales performance. Through visually appealing charts, graphs, and tables, 
